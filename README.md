@@ -28,10 +28,11 @@ This code is for Linear Regression function. [Scikit-learn](https://scikit-learn
 You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/02%20ML_LinearRegression_TheFunction.ipynb)
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 03 ML_LinearRegression_PlayersHeightsWeights
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+In this project, we want fit a dataset of baseball players’ heights and weights into a Linear Regression model. We do NOT use Skikit-learn. Instead, we use the Linear Regression function that we wrote from sractch in other project (i.e.,02 ML_LinearRegression_TheFunction)
+
+You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/02%20ML_LinearRegression_TheFunction.ipynb)
 
 ### Prerequisites
 
