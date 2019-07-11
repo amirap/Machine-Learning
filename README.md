@@ -17,9 +17,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://www.google.com/search?q=machine+learning&rlz=1C5CHFA_enNL814NL814&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6n4jR3KzjAhUN-aQKHS3GCfwQ_AUIECgB&biw=1280&bih=668#imgrc=vRPa0fH3k54EqM:)
-
 ![alt text](https://github.com/amirap/Machine-Learning/blob/master/machineLearning3.png)
 
 This repository contains source code to some mini Machine Learning (ML) projects. These are my pet projects to get hands-on experience in common ML algorithms. The projects and data come from different sources incl. codeacademy and Kaggle.    
