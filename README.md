@@ -23,7 +23,7 @@ This repository contains source code to some mini Machine Learning (ML) projects
 
 <!-- 02 ML_LinearRegression_TheFunction -->
 ## 02 ML_LinearRegression_TheFunction
-This code is for Linear Regression function. [Scikit-learn](https://scikit-learn.org/stable/) has ready-to-use Linear Regression models.   But in this code, I have written the Linear Regression function from scratch using Pyhton libraries such as NumPy, Pandas, and Matplotlib.
+This code is for Linear Regression function. [Scikit-learn](https://scikit-learn.org/stable/) has ready-to-use Linear Regression modules and functions. But in this code, I have written the Linear Regression function from scratch using Pyhton libraries such as NumPy, Pandas, and Matplotlib.
 
 You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/02%20ML_LinearRegression_TheFunction.ipynb)
 
