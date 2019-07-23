@@ -3,15 +3,11 @@
 
 * [About the Project](#about-the-project)
 * [02 ML_LinearRegression_TheFunction](#02-ML_LinearRegression_TheFunction)
-* [Getting Started](#getting-started)
+* [03 ML_LinearRegression_PlayersHeightsWeights](#03-ML_LinearRegression_PlayersHeightsWeights)
+* [04 ML_LinearRegression_KaggleChallengeHoneyProduction](04-ML_LinearRegression_KaggleChallengeHoneyProduction)
+* [05 ML_MultipleLinearRegression_SteerteasyRentPrediction](05-ML_MultipleLinearRegression_SteerteasyRentPrediction)
+* [06 ML_MultipleLinearRegression_YelpResturantStarPrediction](06-ML_MultipleLinearRegression_YelpResturantStarPrediction)
   * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -27,34 +23,43 @@ This code is for Linear Regression function. [Scikit-learn](https://scikit-learn
 
 You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/02%20ML_LinearRegression_TheFunction.ipynb)
 
-<!-- GETTING STARTED -->
+<!-- 03 ML_LinearRegression_PlayersHeightsWeights -->
 ## 03 ML_LinearRegression_PlayersHeightsWeights
 
 In this project, we want fit a dataset of baseball players’ heights and weights into a Linear Regression model. We do NOT use Skikit-learn. Instead, we use the Linear Regression function that we wrote from sractch in other project (i.e.,02 ML_LinearRegression_TheFunction)
 
 You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/02%20ML_LinearRegression_TheFunction.ipynb)
 
-### Prerequisites
+<!-- 04 ML_LinearRegression_KaggleChallengeHoneyProduction -->
+## 04 ML_LinearRegression_KaggleChallengeHoneyProduction
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+In this project, we want to investigate a Kaggle dataset to explore the decline of honeybees population and how the trends of the past predict the future for the honeybees. We will use Skikit-learn. 
 
-### Installation
+You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/04%20ML_LinearRegression_KaggleChallengeHoneyProduction.ipynb)
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-```sh
-git clone https:://github.com/your_username_/Project-Name.git
-```
+## 05 ML_MultipleLinearRegression_SteerteasyRentPrediction
+
+In this project, we want to investigate a real dataset by StreetEasy, a New York City’s leading real estate marketplace. The dataset contains a sample of rentals listings in Manhattan, active on StreetEasy in June 2016. We would like to explore correlations between several features and the rent, build/evaluate.
+
+Questions to answer: “Does having a washer/dryer in unit increase the price of rent?” "And most importantly, “Is a tenant over or underpaying?”
+
+You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/05%20ML_MultipleLinearRegression_SteerteasyRentPrediction.ipynb)
+
+## 06 ML_MultipleLinearRegression_YelpResturantStarPrediction
+
+With a dataset of different restaurant features and their Yelp ratings, in this project we use a Multiple Linear Regression model to investigate what factors most affect a restaurant's Yelp rating and predict the Yelp rating for new restaurants
+
+In this project we'll be working with a real dataset provided by Yelp. 
+
+You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/06%20ML_MultipleLinearRegression_YelpResturantStarPrediction.ipynb)
+
+
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Contact info: amir.piltan@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/amirap/Machine-Learning](https://github.com/amirap/Machine-Learning)
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -65,14 +70,3 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[build-shield]: https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square
-[build-url]: #
-[contributors-shield]: https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
-[license-url]: https://choosealicense.com/licenses/mit
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/screenshot.png
