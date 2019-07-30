@@ -7,7 +7,7 @@
 * [04 ML_LinearRegression_KaggleChallengeHoneyProduction](04-ML_LinearRegression_KaggleChallengeHoneyProduction)
 * [05 ML_MultipleLinearRegression_SteerteasyRentPrediction](05-ML_MultipleLinearRegression_SteerteasyRentPrediction)
 * [06 ML_MultipleLinearRegression_YelpResturantStarPrediction](06-ML_MultipleLinearRegression_YelpResturantStarPrediction)
-  * [Prerequisites](#prerequisites)
+* [13 ML_LogesticRegression_KaggleChallengeTitanicSurvivalPrediction](13-ML_LogesticRegression_KaggleChallengeTitanicSurvivalPrediction)
 
 
 
@@ -53,6 +53,13 @@ In this project we'll be working with a real dataset provided by Yelp.
 
 You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/06%20ML_MultipleLinearRegression_YelpResturantStarPrediction.ipynb)
 
+## 13 ML_LogesticRegression_KaggleChallengeTitanicSurvivalPrediction
+
+In this project, we will create a Logistic Regression model that predicts which passengers survived the sinking of the Titanic, based on features like age and class. Logestic Regression models the defualt class. The defaul class for this problem is survival, so the logistic regression models is the probability of survival given a passenger sex, age, and Ticket class.
+
+In this project we'll be working with a real dataset provided by Kaggle here: https://www.kaggle.com/c/titanic/data#_=_ 
+
+You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/13%20ML_LogesticRegression_KaggleChallengeTitanicSurvivalPrediction.ipynb)
 
 
 ## Contact
