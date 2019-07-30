@@ -7,6 +7,9 @@
 * [04 ML_LinearRegression_KaggleChallengeHoneyProduction](04-ML_LinearRegression_KaggleChallengeHoneyProduction)
 * [05 ML_MultipleLinearRegression_SteerteasyRentPrediction](05-ML_MultipleLinearRegression_SteerteasyRentPrediction)
 * [06 ML_MultipleLinearRegression_YelpResturantStarPrediction](06-ML_MultipleLinearRegression_YelpResturantStarPrediction)
+* [07 ML_EuclideanManhattanHammingDistance_TheFunction](07-ML_EuclideanManhattanHammingDistance_TheFunction)
+* [08 ML_KNearestNeighbors_KaggleChallengeMovieRatingPrediction](08-ML_KNearestNeighbors_KaggleChallengeMovieRatingPrediction)
+* [09 ML_KNearestNeighbors_BreastCancerClassifier](09-ML_KNearestNeighbors_BreastCancerClassifier)
 * [13 ML_LogesticRegression_KaggleChallengeTitanicSurvivalPrediction](13-ML_LogesticRegression_KaggleChallengeTitanicSurvivalPrediction)
 
 
@@ -53,11 +56,30 @@ In this project we'll be working with a real dataset provided by Yelp.
 
 You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/06%20ML_MultipleLinearRegression_YelpResturantStarPrediction.ipynb)
 
+## 07 ML_EuclideanManhattanHammingDistance_TheFunction
+
+In this project, we write three function for common distances used in K-nearest Neighbor from scratch.
+
+You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/07%20ML_EuclideanManhattanHammingDistance_TheFunction.ipynb)
+
+## 08 ML_KNearestNeighbors_KaggleChallengeMovieRatingPrediction
+
+In this project, we write a K-Nearest Neighbor algorithm to predict IMDB rating of movies. We use a dataset Kaggle that contains 28 variables for 5043 movies, spanning across 100 years in 66 countries. 
+We write our K-Nearest Neighbor algorithm from scratch without using built-in libraries.
+
+You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/08%20ML_KNearestNeighbors_KaggleChallengeMovieRatingPrediction.ipynb)
+
+## 09 ML_KNearestNeighbors_BreastCancerClassifier
+
+In this project, we will be using several Python libraries to make a K-Nearest Neighbor classifier that is trained to predict whether a patient has breast cancer
+
+You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/09%20ML_KNearestNeighbors_BreastCancerClassifier.ipynb)
+
 ## 13 ML_LogesticRegression_KaggleChallengeTitanicSurvivalPrediction
 
 In this project, we will create a Logistic Regression model that predicts which passengers survived the sinking of the Titanic, based on features like age and class. Logestic Regression models the defualt class. The defaul class for this problem is survival, so the logistic regression models is the probability of survival given a passenger sex, age, and Ticket class.
 
-In this project we'll be working with a real dataset provided by Kaggle here: https://www.kaggle.com/c/titanic/data#_=_ 
+In this project we'll be working with a real dataset provided by Kaggle [here](https://www.kaggle.com/c/titanic/data#_=_) 
 
 You can access the code [here](https://github.com/amirap/Machine-Learning/blob/master/13%20ML_LogesticRegression_KaggleChallengeTitanicSurvivalPrediction.ipynb)
 
